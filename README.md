@@ -28,6 +28,6 @@ Here are some of the cybersecurity-related projects I’ve worked on:
 ## 🤝 Let's Connect  
 I’m always open to collaborating on cybersecurity projects, discussing ideas, or learning from others in the field. Feel free to reach out to me!  
 
-📧 **Email:** 
-🔗 **LinkedIn:** 
+📧 **Email:** muhammadjamalhassan@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/md-jamal-uddin-10421529b/
 🐦 **Twitter:** 
